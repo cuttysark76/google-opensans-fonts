@@ -7,7 +7,7 @@ Release:    1.1
 Summary:    Open Sans fonts
 
 License:    Apache License 2.0
-Url:        http://www.google.com/webfonts/specimen/Open+Sans
+Url:        http://www.google.com/fonts/specimen/Open+Sans
 Group:      User Interface/X
 Source0:    %{name}-%{version}.tar.bz2
 
